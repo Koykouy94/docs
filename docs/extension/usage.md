@@ -1,5 +1,5 @@
----
-title: Usage
+import { keygen } from '@analog-labs/timegraph-js';
+import { web3FromAddress } from '@polkadot/extension-dapp';
 slug: /extension/usage
 ---
 
